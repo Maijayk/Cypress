@@ -1,0 +1,12 @@
+{
+  "admin": {
+    "usuario": "lourdesa",
+    "contrasena": "12345678"
+  },
+  "nuevo_usuario": {
+    "username_base": "testuser04",
+    "nombre": "maira04",
+    "apellido": "jayk04",
+    "email_base": "ana.suarez.test"
+  }
+}

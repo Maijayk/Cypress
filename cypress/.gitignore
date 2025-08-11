@@ -1,0 +1,10 @@
+# Ignorar dependencias de Node
+node_modules/
+
+# Ignorar artefactos generados por Cypress
+cypress/downloads/
+cypress/screenshots/
+cypress/videos/
+
+# Ignorar archivos de configuración de entorno local (si los usas)
+cypress.env.json

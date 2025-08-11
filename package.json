@@ -1,0 +1,30 @@
+{
+  "name": "cypress-e2e-framework",
+  "version": "1.0.0",
+  "description": "E2E Framework Testing Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cy:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maijayk/Automation-Cypress.git"
+  },
+  "keywords": [
+    "e2e",
+    "automation",
+    "framework",
+    "cypress"
+  ],
+  "author": "mjayk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maijayk/Automation-Cypress/issues"
+  },
+  "homepage": "https://github.com/Maijayk/Automation-Cypress#readme",
+  "devDependencies": {
+    "cypress": "^14.5.2",
+    "cypress-mochawesome-reporter": "^4.0.0"
+  }
+}
